@@ -1,1 +1,1 @@
-Some content from direct branch
+Update from branch that comes from another branch

@@ -1,1 +1,1 @@
-From second branch
+From first conflict branch

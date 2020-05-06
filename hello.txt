@@ -1,1 +1,3 @@
 New file added at file.txt
+File modified at file.txt
+File added at text.txt
